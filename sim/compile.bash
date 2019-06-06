@@ -1,0 +1,1 @@
+gcc *.c -std=gnu99 -Wall -Werror -I../ZDK -L../ZDK -lzdk -lncurses -lm -o sim
